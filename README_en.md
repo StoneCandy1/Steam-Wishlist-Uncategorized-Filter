@@ -74,7 +74,7 @@ This design keeps the script simple, reliable, and resilient to Steam updates.
 
 ## Compatibility
 
-Tested on the current Steam Store Wishlist (2026).
+Tested on the current Steam Store Wishlist (July 2026).
 
 The script avoids relying on Steam's randomly generated CSS class names whenever possible, making it relatively resistant to UI updates.
 
@@ -87,9 +87,3 @@ Because I somehow managed to accumulate **2000+ games** in my Wishlist.
 Organizing them is hard.
 
 Finding the ones I *haven't* organized yet shouldn't be.
-
----
-
-## License
-
-MIT
